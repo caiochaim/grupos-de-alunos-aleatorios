@@ -1,0 +1,6 @@
+C:\TFS\DB1TRAINEE\MinhaSolucao\DesafioGrupoDeAlunos\bin\Debug\DesafioGrupoDeAlunos.exe.config
+C:\TFS\DB1TRAINEE\MinhaSolucao\DesafioGrupoDeAlunos\bin\Debug\DesafioGrupoDeAlunos.exe
+C:\TFS\DB1TRAINEE\MinhaSolucao\DesafioGrupoDeAlunos\bin\Debug\DesafioGrupoDeAlunos.pdb
+C:\TFS\DB1TRAINEE\MinhaSolucao\DesafioGrupoDeAlunos\obj\Debug\DesafioGrupoDeAlunos.exe
+C:\TFS\DB1TRAINEE\MinhaSolucao\DesafioGrupoDeAlunos\obj\Debug\DesafioGrupoDeAlunos.pdb
+C:\TFS\DB1TRAINEE\MinhaSolucao\DesafioGrupoDeAlunos\obj\Debug\DesafioGrupoDeAlunos.csprojResolveAssemblyReference.cache
